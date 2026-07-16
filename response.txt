@@ -1,0 +1,7 @@
+Hello! I see you're watching our Html fundamental course videos. You asked about HTML, but we haven't covered it in depth yet.
+
+Let's take a look at what we've been discussing so far. In Video 1, we actually started talking about HTML earlier. At around 10 seconds into the video, I mentioned that I brought a video about HTML for you to watch. And then, just before 18 seconds, we discussed how today's lesson will focus on the form tag in HTML.
+
+If you'd like to learn more about HTML and the form tag, let's head back to Video 1. At approximately 97 seconds into the video, I explained that the form is made using HTML. Later on, at around 101 seconds, I mentioned that so, we can say that this form was designed from HTML.
+
+If you have any more questions about HTML or the form tag, feel free to ask, and I'll be happy to guide you through it.
